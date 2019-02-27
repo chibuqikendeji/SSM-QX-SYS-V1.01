@@ -32,5 +32,4 @@ public class GeneratorSqlMap {
 			e.printStackTrace();
 		}
 	}
-
 }

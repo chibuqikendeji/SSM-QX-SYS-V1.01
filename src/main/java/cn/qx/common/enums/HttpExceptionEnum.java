@@ -1,9 +1,9 @@
 package cn.qx.common.enums;
 
 /**
- * 全局HTTP请求异常处理
- * @auther TyCoding
- * @date 2018/12/18
+ * 异常提示
+ * @author Satone
+ * @date 2019年2月26日
  */
 public enum HttpExceptionEnum {
 

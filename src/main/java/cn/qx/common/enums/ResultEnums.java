@@ -1,8 +1,9 @@
 package cn.qx.common.enums;
 
 /**
- * @auther TyCoding
- * @date 2018/10/16
+ * 异常提示
+ * @author Satone
+ * @date 2019年2月26日
  */
 public enum ResultEnums {
 
